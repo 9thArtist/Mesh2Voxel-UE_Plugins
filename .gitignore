@@ -1,0 +1,17 @@
+# 编译生成
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# 编辑器临时文件
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.pyc
+
+# 日志
+*.log
